@@ -10,10 +10,10 @@
 
 ## Effect
 
-|iOS-map|Android-map|
-|:-|:-|
-|![ios](https://github.com/pdliuw/ai_load_status/blob/master/example/gif/ai_load_status_ios.gif)|![android](https://github.com/pdliuw/ai_load_status/blob/master/example/gif/ai_load_status_android.gif)|
-|:-|:-|
+|1|2|3|
+|:-|:-|:-|
+|![android](https://github.com/pdliuw/ai_load_status/blob/master/example/gif/android_1.png)|![android](https://github.com/pdliuw/ai_load_status/blob/master/example/gif/android_2.png)|![android](https://github.com/pdliuw/ai_load_status/blob/master/example/gif/android_3.png)|
+|:-|:-|:-|
 
 
 ## 1.安装
